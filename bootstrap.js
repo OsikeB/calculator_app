@@ -20,7 +20,7 @@ function createWindow () {
         win = null;
     })
 
-    //win.openDevTools()
+win.openDevTools()
 }
 
 app.on('ready', createWindow);

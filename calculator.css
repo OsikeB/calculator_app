@@ -11,8 +11,7 @@
 	height: auto;
 
 	padding: 20px;
-	background: linear-gradient(#9dd2ea, #8bceec);
-	box-shadow: 0px 4px #009de4;
+
 }
 
 .top span.clear {
@@ -74,14 +73,12 @@ span.operator {
 }
 
 .keys span.operator {
-	background: #fff0f5;
+
 	margin-right: 0;
 }
 
 .keys span.eval {
-	background: #f1ff92;
-	box-shadow: 0px 4px #9da853;
-	color: #888e5f;
+
 }
 
 .top span.clear {
@@ -91,14 +88,14 @@ span.operator {
 }
 
 .keys span:hover {
-	background: #9c89f6;
-	box-shadow: 0px 4px #6b54d3;
+	/* background: #9c89f6;
+	box-shadow: 0px 4px #6b54d3; */
 	color: white;
 }
 
 .keys span.eval:hover {
-	background: #abb850;
-	box-shadow: 0px 4px #717a71;
+	/* background: #abb850;
+	box-shadow: 0px 4px #717a71; */
 	color: #ffffff;
 }
 
